@@ -6,7 +6,7 @@ This is a brief university repository for Robot Motion Planning and Control usin
 
 ---
 ### 🧩 Path Planning
- It is a short Lab work that ask:
+This lab work is brief and requires:
 - Write a program to plan a path from an initial point to a final point while avoiding obstacles using the **Potential Field Method**
 - Independently define the initial and final positions, as well as obstacle locations in the workspace
 - Visualize the resulting path and obstacle avoidance behavior
@@ -14,7 +14,7 @@ This is a brief university repository for Robot Motion Planning and Control usin
 ---
 
 ### 🧩 Trajectory Planning Through Multiple Points
- It is a short Lab work that ask:
+This lab work is brief and requires:
 - Write a program to generate a motion trajectory for a selected manipulator that passes through **four predefined points**
   - 4.1 Select a robot model  
   - 4.2 Solve the **forward** and **inverse kinematics**  
